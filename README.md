@@ -1,6 +1,6 @@
 # 🏆 2026 RoboCup 작업 기록
 
-> 📄 **[기존 원본 README.md 보기](./O.G_README.md)**
+> 📄 **[작업 기록 보기](./O.G_README.md)**
 
 ---
 
