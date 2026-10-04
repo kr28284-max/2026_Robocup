@@ -23,4 +23,5 @@
 
 ## 🔗 4. 관련 링크
 - 📄 [기존 원본 README.md](./README.md)
-- 🌐 [관련 기사 웹사이트 링크](https://기사_원문_링크_주소)
+- 🌐 [인천대, 첫 출전 로보컵 세계 제패…AI·로봇 인재양성 결실](https://www.m-i.kr/news/articleView.html?idxno=1388989)
+- 🌐 [인천시, 로보컵 2026 성황리 폐막...로봇산업 생태계 확장 기대](https://www.kmaeil.com/news/articleView.html?idxno=644469)
